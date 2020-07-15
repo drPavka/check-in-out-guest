@@ -1,0 +1,23 @@
+{
+  "Mr.": "Herr",
+  "Mrs.": "Frau",
+  "First name": "Vorname",
+  "Last name": "Name",
+  "ZIP Code": "PLZ",
+  "City": "Ort",
+  "Phone": "Handynummer",
+  "Email": "Email",
+  "Start registration": "Start registrierung",
+  "I hereby confirm the accuracy and completeness of my information": "Hiermit bestätige ich die Richtigkeit und Vollständigkeit meiner Angaben",
+  "I hereby confirm that my data can be saved securely": "Hiermit bestätige ich, dass meine Daten gesichert abgespeichert warden dürfen",
+  "In order to check you in the event, we need a valid mobile phone number.": "Die Behörden verlangen die Verifizierung der Gäste für diesen Event. Dafür brauchen wir Ihre Kontaktdaten.",
+  "What happens to my data?": "Was passiert mit meinen Daten?",
+  "WHAT_HAPPENS_DESCRIPTION": "Ihre Daten werden in einer Datenbank gesichert hinterlegt. Wird Ihr persönlicher QR Code gescannt, werden Ihre Daten für 2 Wochen für das Contact-Tracing zu dieser Veranstaltung hinzugefügt. Sie werden keine Werbung erhalten und Ihre Daten werden mit aller Vorsicht behandelt. Vielen Dank für Ihr Vertrauen.",
+  "Here is your registration code": "Hier ist Ihr Registrierungscode",
+  "Present this code at the entrance, they will scan it and you will receive an SMS then.": "Zeigen Sie diesen Code dem Einlasspersonal vor. Diese werden den Code scannen und Sie erhalten eine SMS. Bitte zeigen Sie diese SMS dem Einlasspersonal.",
+  "Take a screenshot of this code, so if you come back to this location you don’t have to register again.": "Mache einen Screenshot dieses Codes, so können Sie ohne Ihre Daten neu zu erfassen bei dieser Location erneut einchecken.",
+  "You are ready to get in!": "Fast geschafft!",
+  "Present this QR code at the entrance to check-in.": "Zeigen Sie diesen Code dem Einlasspersonal.",
+  "Have fun tonight!": "Wir wünschen Ihnen viel Spass heute!",
+  "Welcome!": "Willkommen!"
+}
