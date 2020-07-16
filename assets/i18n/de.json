@@ -19,5 +19,12 @@
   "You are ready to get in!": "Fast geschafft!",
   "Present this QR code at the entrance to check-in.": "Zeigen Sie diesen Code dem Einlasspersonal.",
   "Have fun tonight!": "Wir wünschen Ihnen viel Spass heute!",
-  "Welcome!": "Willkommen!"
+  "Welcome!": "Willkommen!",
+  "Email is required": "E-Mail ist erforderlich",
+  "Wrong email format": "Falsches E-Mail-Format",
+  "First name required": "Vorname (erforderlich",
+  "Last name required": "Nachname erforderlich",
+  "Zip code required": "Postleitzahl erforderlich",
+  "City is required": "Stadt ist erforderlich",
+  "Phone is required": "Telefon ist erforderlich"
 }
