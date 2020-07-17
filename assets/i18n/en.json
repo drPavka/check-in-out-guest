@@ -1,4 +1,6 @@
 {
-  "Do not remember the password?": "Don't remember the password?",
-  "Bad credentials": "Wrong username or password!"
+  "WHAT_HAPPENS_DESCRIPTION": "Your data will be saved in a database. When your personal QR code is scanned, your data will be added to this event for 2 weeks for contact tracing.<br>You will not receive any advertising and your data will be handled with caution.<br>Thank you for your trust.",
+  "In order to check you in the event, we need a valid mobile phone number.": "We must verify that you have a valid mobile phone number before granting you access to the facility.",
+  "Phone": "Mobile Number",
+  "Take a screenshot of this code, so if you come back to this location you don’t have to register again.": "You can take a screenshot  of this code to re-use next time."
 }
